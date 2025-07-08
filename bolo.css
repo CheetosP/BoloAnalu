@@ -1,0 +1,89 @@
+body {
+background-color: #ffe5f5;
+font-family: "Lily Script One", serif;
+width:940px;
+margin-right:auto;
+margin-left:700px;
+}
+
+h2 {
+background-color: #ffa8c8;
+padding-top: 3px;
+padding-bottom: 3px;
+padding-left: 20px;
+color: #b0324f;
+}
+
+td {
+padding: 7px;
+}
+
+#tb-nutrientes {
+width:40%;
+margin-left:20px;
+border: solid 1px #b0324f
+}
+
+#tb-nutrientes th {
+background-color: #ae80e6;
+}
+
+body {
+    background-color: #ffe5f5;
+    font-family: "Lily Script One", serif;
+    width:940px;
+    margin-right:auto;
+    margin-left: 50px;
+}
+
+h2 {
+    background-color: #ffa8c8;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 20px;
+    color: #b0324f;
+}
+
+td {
+    padding: 7px;
+}
+
+#tb-nutrientes {
+  width:40%;
+  margin-left:20px;
+  border: solid 1px #b0324f
+}
+
+#tb-nutrientes th {
+  background-color: #ae80e6;  
+}
+
+body {
+    background-color: #ffe5f5;
+    font-family: "Lily Script One", serif;
+    width:940px;
+    margin-right:auto;
+    margin-left: 50px;
+}
+
+h2 {
+    background-color: #ffa8c8;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 20px;
+    color: #b0324f;
+}
+
+td {
+    padding: 7px;
+}
+
+#tb-nutrientes {
+  width:40%;
+  margin-left:20px;
+  border: solid 1px #b0324f
+}
+
+#tb-nutrientes th {
+  background-color: #ae80e6;  
+}
