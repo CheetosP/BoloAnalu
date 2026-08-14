@@ -1,6 +1,5 @@
 # Bolo Analu
 
-<p><strong>Currículo Neon</strong></p>
 
 ### Sobre
 
