@@ -1,7 +1,7 @@
 # Bolo Analu
 
 
-### Sobre
+### Sobre:
 
 Bolo Analu é sobre uma página WEB que contém uma receita de bolo com um design que faz referência ao sabor do bolo, contendo ingredientes, modo de preparo e informações nutricionais.
 
